@@ -2,6 +2,8 @@
 
 This guide covers how to create, manage, export, and import dummy data for the Student Platform API using the built-in factory system.
 
+> 📖 **Back to [Main README](../README.md)** | **Related:** [Testing Guide](TESTING_GUIDE.md) | [Implementation Summary](IMPLEMENTATION_SUMMARY.md)
+
 ## 📋 Table of Contents
 
 1. [Overview](#overview)
@@ -483,3 +485,20 @@ apps = ApplicationFactory.create_applications_for_student(student.id, 3)
 ```
 
 Happy Data Management! 🏭✨
+
+---
+
+## 📚 Additional Resources
+
+- **[Main README](../README.md)** - Complete project overview and setup
+- **[Testing Guide](TESTING_GUIDE.md)** - Comprehensive testing documentation
+- **[Implementation Summary](IMPLEMENTATION_SUMMARY.md)** - Feature implementation details
+- **[Interview Assignment](Interview%20Assignment.pdf)** - Original assignment requirements
+
+## 🔗 Quick Navigation
+
+- [Back to Main README](../README.md)
+- [Data Factory Classes](#factory-classes)
+- [CLI Commands](#cli-commands)
+- [Export/Import Process](#exportimport)
+- [Best Practices](#best-practices)

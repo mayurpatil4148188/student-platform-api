@@ -2,6 +2,8 @@
 
 This guide covers how to run tests and create new test cases for the Student Platform API using pytest.
 
+> 📖 **Back to [Main README](../README.md)** | **Related:** [Data Management Guide](DATA_MANAGEMENT_GUIDE.md) | [Implementation Summary](IMPLEMENTATION_SUMMARY.md)
+
 ## 📋 Table of Contents
 
 1. [Quick Start](#quick-start)
@@ -549,3 +551,20 @@ class TestNewFeature:
 ```
 
 Happy Testing! 🧪✨
+
+---
+
+## 📚 Additional Resources
+
+- **[Main README](../README.md)** - Complete project overview and setup
+- **[Data Management Guide](DATA_MANAGEMENT_GUIDE.md)** - Data factory and management system
+- **[Implementation Summary](IMPLEMENTATION_SUMMARY.md)** - Feature implementation details
+- **[Interview Assignment](Interview%20Assignment.pdf)** - Original assignment requirements
+
+## 🔗 Quick Navigation
+
+- [Back to Main README](../README.md)
+- [Running Tests](#running-tests)
+- [Creating New Tests](#creating-new-tests)
+- [Test Examples](#test-examples)
+- [Best Practices](#best-practices)
