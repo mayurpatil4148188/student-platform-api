@@ -19,3 +19,114 @@
 {"asctime": "2025-09-13 18:42:31,889", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
 {"asctime": "2025-09-13 18:42:48,851", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
 {"asctime": "2025-09-13 18:42:49,350", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 18:55:44,934", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 18:55:45,633", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:01:00,048", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:04:39,176", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:05:19,570", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:16:59,519", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,417", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,469", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 1", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,471", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 1", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,471", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,472", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 3", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,472", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Offer Received - Winter 2026", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,475", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 1: status 'None' -> 'Offer Received', intake 'None' -> 'Winter 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,479", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 2", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,481", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 2", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,481", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,481", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 2", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,481", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Application Submitted to University - Fall 2026", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,482", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 2: status 'None' -> 'Application Submitted to University', intake 'None' -> 'Fall 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,486", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 3", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,487", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 3", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,487", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,487", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 2", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,487", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Application Submitted to University - Spring 2026", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,489", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 3: status 'None' -> 'Application Submitted to University', intake 'None' -> 'Spring 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,492", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 4", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,492", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 4", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,493", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,493", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 5", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,493", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Visa Approved - Summer 2026", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,494", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 4: status 'None' -> 'Visa Approved', intake 'None' -> 'Summer 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,498", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 5", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,499", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 5", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,499", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,499", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 2", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,499", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Application Submitted to University - Winter 2026", "taskName": null}
+{"asctime": "2025-09-13 19:17:09,500", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 5: status 'None' -> 'Application Submitted to University', intake 'None' -> 'Winter 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:17:50,947", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:18:58,299", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:19:37,894", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:19:46,473", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:20:00,251", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:20:13,265", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:20:30,795", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:20:39,220", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:21:22,350", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:21:37,209", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:21:46,549", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:21:56,439", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:21:57,143", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:22:06,974", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:22:23,729", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:22:36,754", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:22:49,792", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:23:00,296", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:23:01,025", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:23:26,104", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:23:36,510", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:24:07,949", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:28:37,219", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:28:48,401", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:29:02,784", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:29:10,675", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:29:11,411", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:29:53,249", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:32:16,116", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:32:16,843", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:32:32,030", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:32:40,295", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:32:40,974", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:32:56,253", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:33:04,631", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:33:05,379", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:33:27,489", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:33:41,546", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:36:11,086", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:36:11,975", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,031", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 36", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,033", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 36", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,033", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,034", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 3", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,034", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Offer Received - Winter 2026", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,035", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 36: status 'Offer Received' -> 'Offer Received', intake 'Winter 2026' -> 'Winter 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,036", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 37", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,037", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 37", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,037", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,037", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 2", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,037", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Application Submitted to University - Fall 2026", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,038", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 37: status 'Application Submitted to University' -> 'Application Submitted to University', intake 'Fall 2026' -> 'Fall 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,039", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 38", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,041", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 38", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,041", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,041", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 2", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,041", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Application Submitted to University - Spring 2026", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,042", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 38: status 'Application Submitted to University' -> 'Application Submitted to University', intake 'Spring 2026' -> 'Spring 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,043", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 39", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,044", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 39", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,044", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,044", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 5", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,044", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Visa Approved - Summer 2026", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,046", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 39: status 'Visa Approved' -> 'Visa Approved', intake 'Summer 2026' -> 'Summer 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,047", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updating highest status for student 40", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,048", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Found 2 applications for student 40", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,048", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Calculating highest status for 2 applications", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,048", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Maximum status weight found: 2", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,048", "name": "app.services.status_calculator", "levelname": "DEBUG", "message": "Single best application: Application Submitted to University - Winter 2026", "taskName": null}
+{"asctime": "2025-09-13 19:36:12,049", "name": "app.services.status_calculator", "levelname": "INFO", "message": "Updated student 40: status 'Application Submitted to University' -> 'Application Submitted to University', intake 'Winter 2026' -> 'Winter 2026'", "taskName": null}
+{"asctime": "2025-09-13 19:38:46,099", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:39:17,827", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:39:42,150", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}
+{"asctime": "2025-09-13 19:40:54,215", "name": "app", "levelname": "INFO", "message": "Student Platform API initialized in development mode", "taskName": null}

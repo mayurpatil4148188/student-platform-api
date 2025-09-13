@@ -104,11 +104,9 @@ class Student(BaseModel):
     def active_applications_count(self) -> int:
         """Count of non-dropped applications."""
         if self.applications:
-            return (
-                self.applications.filter_by(is_deleted=False)
-                .filter(Application.status != "Dropped")
-                .count()
-            )
+            total = self.applications.filter_by(is_deleted=False).count()
+            dropped = self.applications.filter_by(is_deleted=False, status="Dropped").count()
+            return total - dropped
         return 0
 
     @hybrid_property
